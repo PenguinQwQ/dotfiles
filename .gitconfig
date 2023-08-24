@@ -1,0 +1,12 @@
+[user]
+	name = 22051444-Junrong Huang
+	email = hjrxfly@163.com
+[core]
+	editor = vim
+[color]
+	ui = true
+[http]
+	sslVerify = false
+
+[alias]
+	graph = log --all --graph --oneline --decorate
